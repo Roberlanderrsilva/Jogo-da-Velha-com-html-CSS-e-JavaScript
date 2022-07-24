@@ -8,3 +8,6 @@ As três casas com os caracteres alinhados ficam verdes, indicando o ganhador...
 Do contrário o jogo acaba e diz-se que Velhou, pois não houve vencedor....
 Após baixar o arquivo no seu pc, basta criar um atalho para o arquivo
 
+## Preview do Jogo
+<p align="center"><img width="60%" src="Jogo da Velha.PNG" alt="imagem do jogo"></img></p>
+
